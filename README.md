@@ -1,0 +1,1 @@
+# GNOME_STABLE_3.0
